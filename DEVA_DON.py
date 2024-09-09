@@ -2,7 +2,6 @@
 import requests
 import json
 import time
-import pytz
 import datetime
 import sys
 from platform import system
